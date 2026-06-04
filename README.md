@@ -1,3 +1,4 @@
+<div align="center">
 <img width="200" height="200" alt="e35f5fc4-116f-11ee-ba0c-079e63f6aa64" src="https://github.com/user-attachments/assets/d777f9b0-050e-46c5-a203-fce6fb411819" />
 
 Hi, I'm **Nkechi Ihewulezi**
