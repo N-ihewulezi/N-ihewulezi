@@ -4,12 +4,13 @@
 
 <h3 align="center">👩‍💻  About Me</h3>
 
+<div align="center">
 Hi, I'm **Nkechi Ihewulezi**
 
 Data Analyst | BI Developer
 
 I build data warehouses, dashboards, forecasting models, and analytics solutions that help organisations transform data into actionable business insights.
-
+I act as a translator between complex technical environments and non-technical stakeholders to drive revenue and efficiency.
 <h3 align="center">🛠️ Languages & Tools</h3>
 
 <div align="center">
