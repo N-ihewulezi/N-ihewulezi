@@ -5,6 +5,7 @@
 <h3 align="center">👩‍💻  About Me</h3>
 
 <div align="center">
+  
 Hi, I'm **Nkechi Ihewulezi**
 
 Data Analyst | BI Developer
