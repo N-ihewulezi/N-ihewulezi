@@ -8,7 +8,7 @@ I build data warehouses, dashboards, forecasting models, and analytics solutions
 
 <h3 align="left">🛠️ Languages & Tools</h3>
 
-<div align="center">
+<div align="left">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 <img width="12" />
