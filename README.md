@@ -7,9 +7,9 @@ Data Analyst | BI Developer
 
 I build data warehouses, dashboards, forecasting models, and analytics solutions that help organisations transform data into actionable business insights.
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="center">🛠️ Languages & Tools</h3>
 
-<div align="left">
+<div align="center">
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
 <img width="12" />
