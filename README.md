@@ -24,16 +24,14 @@ I build data warehouses, dashboards, forecasting models, and analytics solutions
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
 <img width="12" />
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="28" />
+<img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/excel.svg" height="40"  alt = "Excel"/>
 <img width="8" />
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" />
+<img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/power-bi.svg" height="40"  alt = "Power BI"/>
 <img width="8" />
 
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" />
+<img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/googlesheets.svg" height="40"  alt = "GoogleSheets"/>
 <img width="8" />
-
-<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" height="28" />
 
 </div>
-[![My Skills](https://skillicons.dev/icons?i=postgres,python,git,vscode)](https://skillicons.dev)
+
