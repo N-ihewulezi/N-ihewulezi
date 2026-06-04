@@ -37,3 +37,6 @@ I build data warehouses, dashboards, forecasting models, and analytics solutions
 
 </div>
 
+<div align="center">
+  <img src="assets/data-analyst-transparent.png" width="300">
+</div>
