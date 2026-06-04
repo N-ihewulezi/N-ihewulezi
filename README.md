@@ -1,5 +1,5 @@
 <div align="center">
-<img width="200" height="300" alt="e35f5fc4-116f-11ee-ba0c-079e63f6aa64" src="https://github.com/user-attachments/assets/d777f9b0-050e-46c5-a203-fce6fb411819" />
+<img width="400" height="150" alt="e35f5fc4-116f-11ee-ba0c-079e63f6aa64" src="https://github.com/user-attachments/assets/d777f9b0-050e-46c5-a203-fce6fb411819" />
 
 Hi, I'm **Nkechi Ihewulezi**
 
@@ -37,6 +37,3 @@ I build data warehouses, dashboards, forecasting models, and analytics solutions
 
 </div>
 
-<div align="center">
-  <img src="assets/data-analyst-transparent.png" width="300">
-</div>
