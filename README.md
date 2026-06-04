@@ -5,7 +5,7 @@
 
 <div align="center">
   
-Hi, I'm **Nkechi Ihewulezi**
+I'm **Nkechi Ihewulezi**
 
 Data Analyst | BI Developer
 
