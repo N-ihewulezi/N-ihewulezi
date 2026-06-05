@@ -46,3 +46,8 @@ I act as a translator between complex technical environments and non-technical s
 
 </div>
 
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-ihewulezi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
