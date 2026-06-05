@@ -10,44 +10,27 @@
   </a>
 </h1>
 
-**`Data Analyst | BI Developer`**
+**`Data Analyst | Turning Data into Business Insights`**
 
 
 
-I build data warehouses, dashboards, forecasting models, and analytics solutions that help organisations transform data into actionable business insights.
+I build data platforms, dashboards, and analytics solutions that turn raw data into actionable business insights. My work spans SQL, Python, PostgreSQL, dbt, Airflow, and Power BI, with a focus on modern data engineering and business intelligence.
 I act as a translator between complex technical environments and non-technical stakeholders to drive revenue and efficiency.
 <h3 align="center">🛠️ Languages & Tools</h3>
 
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
-<img width="12" />
-
-<img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/excel.svg" height="40"  alt = "Excel"/>
-<img width="8" />
-
-<img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/power-bi.svg" height="40"  alt = "Power BI"/>
-<img width="8" />
-
-<img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/microsoft-sql-server.svg" height="40"  alt = "Sql Server"/>
-<img width="8" />
-
-</div>
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25"/> PostgreSQL &nbsp; • &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25"/> Python &nbsp; • &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25"/> Git &nbsp; • &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25"/> VS Code &nbsp; • &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25"/> Jupyter &nbsp; • &nbsp;
+  <img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/excel.svg" height="25"/> Excel &nbsp; • &nbsp;
+  <img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/power-bi.svg" height="25"/> Power BI &nbsp; • &nbsp;
+  <img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/microsoft-sql-server.svg" height="50"/> SQL Server
+</p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-ihewulezi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
+
