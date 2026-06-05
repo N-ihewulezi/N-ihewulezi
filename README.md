@@ -26,7 +26,7 @@ I act as a translator between complex technical environments and non-technical s
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25"/> Jupyter &nbsp; • &nbsp;
   <img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/excel.svg" height="25"/> Excel &nbsp; • &nbsp;
   <img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/power-bi.svg" height="25"/> Power BI &nbsp; • &nbsp;
-  <img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/microsoft-sql-server.svg" height="50"/> SQL Server
+  <img src="https://raw.githubusercontent.com/N-ihewulezi/N-ihewulezi/main/assets/microsoft-sql-server.svg" height="30"/> SQL Server
 </p>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=N-ihewulezi&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
