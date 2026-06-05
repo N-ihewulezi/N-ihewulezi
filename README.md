@@ -10,7 +10,10 @@
   </a>
 </h1>
 
+<h1 align="center">
+```
 Data Analyst | BI Developer
+```
 
 I build data warehouses, dashboards, forecasting models, and analytics solutions that help organisations transform data into actionable business insights.
 I act as a translator between complex technical environments and non-technical stakeholders to drive revenue and efficiency.
