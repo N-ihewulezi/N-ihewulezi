@@ -12,7 +12,7 @@
 
 <h1 align="center">
 
-`**Data Analyst | BI Developer**`
+**`Data Analyst | BI Developer`**
 
 
 I build data warehouses, dashboards, forecasting models, and analytics solutions that help organisations transform data into actionable business insights.
