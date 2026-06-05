@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=N-ihewulezi.N-ihewulezi">
 
-<h1 align="center">Hello there 👋</h1>
+<h1 align="left">Hello there 👋</h1>
 
 ###
 
@@ -11,6 +11,8 @@
 </h1>
 
 **`Data Analyst | BI Developer`**
+
+
 
 I build data warehouses, dashboards, forecasting models, and analytics solutions that help organisations transform data into actionable business insights.
 I act as a translator between complex technical environments and non-technical stakeholders to drive revenue and efficiency.
