@@ -1,11 +1,14 @@
-<h1 align="center">hey there 👋</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=N-ihewulezi.N-ihewulezi">
+
+<h1 align="center">Hello there 👋</h1>
 
 ###
 
-
-<div align="center">
-  
-I'm **Nkechi Ihewulezi**
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Nkechi+Ihewulezi....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 Data Analyst | BI Developer
 
