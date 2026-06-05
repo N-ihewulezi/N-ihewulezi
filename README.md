@@ -10,7 +10,7 @@
   </a>
 </h1>
 
-
+<h1 align="center">
 
 **`Data Analyst | BI Developer`**
 
